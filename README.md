@@ -1,4 +1,13 @@
-## Hi there 👋
+###Rearsh Insterest
+-badminton player
+-badminton coach
+-Big Data Analyics
+###Present Applement
+-R Language Today
+-Big Data Knowledge Today
+-MCAS powerpoint
+##work experience
+-Database Engineering Assistant at Neihu
 
 <!--
 **Andy881208/Andy881208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
