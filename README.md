@@ -1,12 +1,12 @@
-### <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Clark
+### <img width="50px" src="https://raw.githubusercontent.com/ms314006/ms314006/basic/resource/gqsm.png" />Andy
 ### Rearsh Insterest
--badminton player
--badminton coach
--Big Data Analyics
+- badminton player
+- badminton coach
+- Big Data Analyics
 ### Present Applement
--R Language Today
--Big Data Knowledge Today
--MCAS powerpoint
+- R Language Today
+- Big Data Knowledge Today
+- MCAS powerpoint
 ## work experience
 -Database Engineering Assistant at Neihu
 
